@@ -3,6 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test2">   
     <classes>
+      <method name="startBrowser">
+        <parameter name="Browser" value="chrome" />
+      </method>
       <class name="mavenforjenkins.UITest"/>      
     </classes>
     
