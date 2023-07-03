@@ -1,3 +1,3 @@
-[![Build Status](http://localhost:8080/job/maven%20project/badge/icon)](http://localhost:8080/job/maven%20project/)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=maven+project)](http://localhost:8080/job/maven%20project/)
 # mavenjenkins
 sample maven project for jenkins
